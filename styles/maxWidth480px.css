@@ -1,0 +1,15 @@
+
+@media (max-width: 480px) {
+    .visual .visual_txt .tit {
+      font-size: 26px;
+    }
+  
+    .visual .visual_txt .con {
+      font-size: 15px;
+    }
+
+    .business_entity .fix_txtwrap{
+        margin : 80px 0;
+    }
+  }
+  

@@ -1,0 +1,13 @@
+
+@media (max-width: 768px) {
+    .visual video {
+      min-height: 100%;
+      max-height: 100%;
+    }
+
+    .business_entity .fix_txtwrap {
+      margin : 129px auto;
+    }
+
+  }
+  
